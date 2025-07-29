@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shahawajpasha/CUSTOMER-CHURN-PREDICTION/blob/main/banner%20image%20for%20my%20github%20project%20called%20as%20customer%20churn%20prediction.jpg?raw=true" alt="Customer Churn Prediction Banner" width="100%">
+</p>
+
 # 📉 CUSTOMER CHURN PREDICTION
 
 ## 🔗 GitHub Repository
